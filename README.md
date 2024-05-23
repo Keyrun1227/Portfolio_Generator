@@ -1,0 +1,2 @@
+# Portfolio_Generator
+ Dynamic Portfolio Generator is a powerful web platform designed to help you create impressive portfolios effortlessly. Utilizing PHP and MySQL for a robust back-end, it ensures your portfolio is responsive and mobile-ready. Additionally, it features seamless email integration, enhancing collaboration and communication with potential employers or clients. Whether you're a professional, freelancer, or creative, Dynamic Portfolio Generator makes it easy to showcase your work beautifully and effectively.
